@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<litepal>
+    <dbname value="mdiary" />
+    <version value="2" />
+    <list>
+        <mapping class="com.jiahaozhang.moodiary.bean.User"></mapping>
+        <mapping class="com.jiahaozhang.moodiary.bean.NoteType"></mapping>
+        <mapping class="com.jiahaozhang.moodiary.bean.Note"></mapping>
+    </list>
+</litepal>

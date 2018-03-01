@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="300dp"
+             android:layout_height="match_parent"
+             android:layout_gravity="start"
+             android:clickable="true"
+             android:tag="left">
+
+    <ImageView
+        android:id="@+id/iv_drawer_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/test1_1222" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/id_draw_menu_header"
+            android:layout_width="match_parent"
+            android:layout_height="200dp">
+
+            <com.jiahaozhang.moodiary.widget.CircleImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity=""
+                android:layout_marginLeft="10dp"
+                android:src="@mipmap/mine_avatar"
+                android:id="@+id/imageView"
+                android:layout_marginStart="17dp"
+                android:layout_marginBottom="19dp"
+                android:layout_above="@+id/textView"
+                android:layout_alignStart="@+id/textView" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:text="Mood Diary"
+                android:textSize="15sp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:id="@+id/textView"
+                android:layout_marginLeft="12dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="28dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:id="@+id/draw_button_linearLayout">
+                <Button
+                    android:id="@+id/edit_note_type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="?attr/listPreferredItemHeight"
+                    android:layout_weight="1"
+                    android:layout_alignParentStart="true"
+                    android:background="@android:color/transparent"
+                    android:text="@string/edit"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@android:color/black" />
+
+                <Button
+                    android:id="@+id/exit_app"
+                    android:layout_width="wrap_content"
+                    android:layout_height="?attr/listPreferredItemHeight"
+                    android:layout_weight="1"
+                    android:layout_alignParentEnd="true"
+                    android:background="@android:color/transparent"
+                    android:text="@string/exit_app"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@android:color/black" />
+
+            </LinearLayout>
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/id_draw_menu_item_main_tv"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="40dp"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:paddingLeft="15dp"-->
+                <!--android:text="设置"-->
+                <!--android:textSize="18sp"/>-->
+
+            <ListView
+                android:id="@+id/drawer_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:choiceMode="singleChoice"
+                android:divider="@android:color/transparent"
+                android:dividerHeight="0dp"
+                android:layout_above="@id/draw_button_linearLayout"
+                android:layout_alignParentTop="true"/>
+
+            <!--<Button-->
+                <!--android:id="@+id/exit_app"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="?attr/listPreferredItemHeight"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:background="@android:color/transparent"-->
+                <!--android:gravity="right"-->
+                <!--android:text="@string/exit_app"-->
+                <!--android:textAppearance="?android:attr/textAppearanceMedium"-->
+                <!--android:textColor="@android:color/white"/>-->
+
+            <!--<RelativeLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content">-->
+
+                <!---->
+            <!--</RelativeLayout>-->
+        </RelativeLayout>
+    </LinearLayout>
+
+</FrameLayout>

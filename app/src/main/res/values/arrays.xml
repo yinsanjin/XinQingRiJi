@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_notetype_list">
+        <item>"默认日记"</item>
+        <item>"生活日记"</item>
+        <item>"工作日记"</item>
+        <item>"学习日记"</item>
+    </string-array>
+</resources>

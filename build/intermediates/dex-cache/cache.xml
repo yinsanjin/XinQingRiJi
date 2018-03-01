@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.2.1_75b2265ca82429f5129a268020e54210db0b70d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_29da66af5e49e3bd8fc41d8d68fb8224bdeda471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.android/build-cache/6046892811ae58be4aa0d9f7509670c09a898dbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbc86882cf81b62a4285eb9a20dd14b4aca62ac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.android/build-cache/37d9cab4cb8d3124e7808adfa9d24188e7b311fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d02787b36823d2d2b34eda6830be5b8b7a13139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="173d00b224dd9d54e53a4f07021e61ae06c7a8bc">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9516e82c2cb421ec77397d85b19b222202a37e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.android/build-cache/5ec6430630549f09f4d1359707aeda89b4b83e8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46aa243655ff6690d0c5f81a57b50c1794e47fc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.android/build-cache/2203f47925b61c8839186282cfa2b0a4ed0ae3d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55e3111b1d65231ff11e2a742a2f59b2a1cf1552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.android/build-cache/168e9a39e519282c319ea11514294080b8265479/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_929fd56e50a4da2b38e4b63d78d2e97df398b161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_b443bdd843e162d9d955cde6f7a7ee854d263897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.android/build-cache/e195f5d265518747e650dcd1b4176efa58af81f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09351207d869808240747ea6f8ed7acac5c4fdf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-2.4.0_ae1032492501cc98d8160531a3c8609ba27c3cbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.android/build-cache/731551b7e381727e5353f5b8c626417dd36e6f10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d1bbd17cf3b4c1ada9065abca969c325ac221c6">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d508cabc04af300fa083f6f472e75bec12ee7248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silverliui/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/silverliui/Desktop/XinQingRiJi/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_9ae87e67da832d99836f1fd65a6999ce1ac280d7/classes.dex" />
+    </item>
+
+</items>
